@@ -5,7 +5,7 @@
   "scripts": {
     "start": "node ./bin/www",
     "test": "jasmine",
-    "prepare": "husky"
+    "prepare": "husky install"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
